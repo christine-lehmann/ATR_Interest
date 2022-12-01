@@ -1,2 +1,2 @@
-# RIASEC-test
-Its a simple website which is used to take psycometric test known as RIASEC. 
+# Academic Track Recommender
+Its a simple website which is used to know your interest to recommend a SHS Track 
